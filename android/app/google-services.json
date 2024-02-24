@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "218059522342",
+    "project_id": "notifpush-fa189",
+    "storage_bucket": "notifpush-fa189.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218059522342:android:d70d9a6d4dc5ba2f8601e7",
+        "android_client_info": {
+          "package_name": "com.example.push_notification2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKa15Ta8iPGwt_fSNS5iG8zlNC46Lowgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
